@@ -1,0 +1,20 @@
+DECODELABS DATA ANALYTICS — PROJECT 2 SUBMISSION CHECKLIST
+
+Submit:
+1. DecodeLabs_Project2_EDA_Analysis.xlsx
+2. DecodeLabs_Project2_EDA_Report.pdf
+
+Workbook tabs:
+- Analysis Data
+- Descriptive Statistics
+- Category Counts
+- Monthly Trends
+- Product Analysis
+- City Analysis
+- Outlier Audit
+- Correlation (when numeric columns support it)
+
+Before uploading:
+- Check whether your mentor requires Python code or screenshots separately.
+- Review the report and ensure it matches your internship portal's submission instructions.
+- Do not treat statistical outliers as errors without investigating them.
